@@ -1,0 +1,302 @@
+<autod>
+  <auto mark="Acura">
+    <registrinumber>105 VQS</registrinumber>
+    <mark>Acura</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Voonix</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registrinumber>130 VSO</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Bluezoom</omanik>
+  </auto>
+  <auto mark="Oldsmobile">
+    <registrinumber>602 ABV</registrinumber>
+    <mark>Oldsmobile</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Zoonder</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registrinumber>669 BBF</registrinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Wordtune</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>865 FJR</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Gigashots</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registrinumber>997 BYT</registrinumber>
+    <mark>Ford</mark>
+    <vaasta>1989</vaasta>
+    <omanik>Livetube</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>097 HXJ</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>2002</vaasta>
+    <omanik>Quatz</omanik>
+  </auto>
+  <auto mark="Audi">
+    <registrinumber>426 AIT</registrinumber>
+    <mark>Audi</mark>
+    <vaasta>1989</vaasta>
+    <omanik>Omba</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registrinumber>630 MLX</registrinumber>
+    <mark>Buick</mark>
+    <vaasta>1990</vaasta>
+    <omanik>Yombu</omanik>
+  </auto>
+  <auto mark="Cadillac">
+    <registrinumber>615 IFZ</registrinumber>
+    <mark>Cadillac</mark>
+    <vaasta>2003</vaasta>
+    <omanik>Voomm</omanik>
+  </auto>
+  <auto mark="Bentley">
+    <registrinumber>316 LXM</registrinumber>
+    <mark>Bentley</mark>
+    <vaasta>2009</vaasta>
+    <omanik>Devify</omanik>
+  </auto>
+  <auto mark="BMW">
+    <registrinumber>161 UPW</registrinumber>
+    <mark>BMW</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Tambee</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>555 JRQ</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2003</vaasta>
+    <omanik>Wikivu</omanik>
+  </auto>
+  <auto mark="BMW">
+    <registrinumber>418 UJN</registrinumber>
+    <mark>BMW</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Devshare</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registrinumber>320 LTT</registrinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>1985</vaasta>
+    <omanik>Flipopia</omanik>
+  </auto>
+  <auto mark="Nissan">
+    <registrinumber>536 JSN</registrinumber>
+    <mark>Nissan</mark>
+    <vaasta>1994</vaasta>
+    <omanik>Thoughtblab</omanik>
+  </auto>
+  <auto mark="Hyundai">
+    <registrinumber>643 AAK</registrinumber>
+    <mark>Hyundai</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Livefish</omanik>
+  </auto>
+  <auto mark="Mitsubishi">
+    <registrinumber>356 UFY</registrinumber>
+    <mark>Mitsubishi</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Vitz</omanik>
+  </auto>
+  <auto mark="Hummer">
+    <registrinumber>263 LPB</registrinumber>
+    <mark>Hummer</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Lazzy</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registrinumber>273 GMX</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Yombu</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registrinumber>316 UDT</registrinumber>
+    <mark>Pontiac</mark>
+    <vaasta>1987</vaasta>
+    <omanik>Thoughtworks</omanik>
+  </auto>
+  <auto mark="Lexus">
+    <registrinumber>274 CZO</registrinumber>
+    <mark>Lexus</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Ozu</omanik>
+  </auto>
+  <auto mark="Chrysler">
+    <registrinumber>726 OXW</registrinumber>
+    <mark>Chrysler</mark>
+    <vaasta>1994</vaasta>
+    <omanik>Trudeo</omanik>
+  </auto>
+  <auto mark="Isuzu">
+    <registrinumber>446 GSK</registrinumber>
+    <mark>Isuzu</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Voomm</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registrinumber>367 QTC</registrinumber>
+    <mark>Buick</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Riffwire</omanik>
+  </auto>
+  <auto mark="BMW">
+    <registrinumber>722 WML</registrinumber>
+    <mark>BMW</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Edgepulse</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>986 ITY</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Skidoo</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registrinumber>526 XRZ</registrinumber>
+    <mark>Pontiac</mark>
+    <vaasta>1987</vaasta>
+    <omanik>Jabbertype</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registrinumber>919 AQI</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Leexo</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registrinumber>723 UZC</registrinumber>
+    <mark>Mazda</mark>
+    <vaasta>2007</vaasta>
+    <omanik>Mydo</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registrinumber>504 CLT</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Youopia</omanik>
+  </auto>
+  <auto mark="Audi">
+    <registrinumber>037 LFK</registrinumber>
+    <mark>Audi</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Jabbersphere</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registrinumber>041 CHT</registrinumber>
+    <mark>Mazda</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Mita</omanik>
+  </auto>
+  <auto mark="Kia">
+    <registrinumber>745 TLP</registrinumber>
+    <mark>Kia</mark>
+    <vaasta>1997</vaasta>
+    <omanik>Dabshots</omanik>
+  </auto>
+  <auto mark="BMW">
+    <registrinumber>525 ANV</registrinumber>
+    <mark>BMW</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Wordpedia</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>262 FKQ</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Jabbercube</omanik>
+  </auto>
+  <auto mark="Lincoln">
+    <registrinumber>192 EYP</registrinumber>
+    <mark>Lincoln</mark>
+    <vaasta>1989</vaasta>
+    <omanik>Vitz</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registrinumber>055 FNI</registrinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Minyx</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>993 EOJ</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Realpoint</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registrinumber>478 ALP</registrinumber>
+    <mark>Mazda</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Quinu</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>467 HMU</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Feedbug</omanik>
+  </auto>
+  <auto mark="Nissan">
+    <registrinumber>516 MTT</registrinumber>
+    <mark>Nissan</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Zoonder</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registrinumber>624 PWW</registrinumber>
+    <mark>Pontiac</mark>
+    <vaasta>2009</vaasta>
+    <omanik>LiveZ</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>095 HDL</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Rooxo</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registrinumber>529 JWJ</registrinumber>
+    <mark>Mazda</mark>
+    <vaasta>1992</vaasta>
+    <omanik>Quaxo</omanik>
+  </auto>
+  <auto mark="Infiniti">
+    <registrinumber>419 VJN</registrinumber>
+    <mark>Infiniti</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Centidel</omanik>
+  </auto>
+  <auto mark="Pontiac">
+    <registrinumber>082 YAQ</registrinumber>
+    <mark>Pontiac</mark>
+    <vaasta>1991</vaasta>
+    <omanik>Yodel</omanik>
+  </auto>
+  <auto mark="Saab">
+    <registrinumber>858 GJK</registrinumber>
+    <mark>Saab</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Youspan</omanik>
+  </auto>
+  <auto mark="Toyota">
+    <registrinumber>872 ZUY</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Feedmix</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>009 PRX</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2007</vaasta>
+    <omanik>Yodo</omanik>
+  </auto>
+</autod>
